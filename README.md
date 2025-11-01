@@ -31,6 +31,7 @@ The dataset was cleaned and standardized into a new file:
 ---
 
 ## 📂 Project Structure
+```plaintext
 CO2-Emission-ASEAN/
 │
 ├── data/
@@ -47,7 +48,7 @@ CO2-Emission-ASEAN/
 ├── README.md # Project overview
 ├── requirements.txt # Dependencies
 └── .gitignore # Git tracking rules
-
+```
 
 ---
 
