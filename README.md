@@ -31,7 +31,7 @@ annual_co2_emissions_per_capita – CO₂ emissions per person (tonnes/year)
 The dataset was cleaned and standardized into a new file:
 co2_emission_asean_clean.csv
 
-📊 Project Structure
+### Project Structure
 
 CO2-Emission-ASEAN/
 │
